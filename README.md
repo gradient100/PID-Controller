@@ -28,7 +28,7 @@ The i component was also first tuned by hand, and later automatically with twidd
 
 The d component was also first tuned by hand, and later automatically with twiddle.  The d component was tuned by hand by incrementing in steps of 0.5 to make sure it at least stayed on the road.  Magnitudes for the d component that were too high caused overdampening and the car failed to steer sharply enough into turns for the same value of the p component. Magnitudes too low caused the car to oscillate along the midline of the road.  I settled on a manual value for the d component of -0.4 before sending it off to automatic parameter optimization using twiddle.  Twiddle, then, found an optimal p component of -3.64.
 
-[Here] (http://github.com/gradient100/PID-Controller/blob/master/demo.mov) is a video of the car with the final parameters.
+[Here](http://github.com/gradient100/PID-Controller/blob/master/demo.mov) is a video of the car with the final parameters.
 
 
 ## Dependencies
