@@ -1,11 +1,8 @@
-# CarND-Controls-PID
+# PID Controller
 
 Vinh Nghiem
 
-Self-Driving Car Engineer Nanodegree Program
-
-Udacity SDCND Term 2, Project 4
-
+Self-Driving Car Engineer Program
 ---
 
 ## Project Overview
